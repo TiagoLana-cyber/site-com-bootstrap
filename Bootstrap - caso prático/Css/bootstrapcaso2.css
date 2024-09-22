@@ -1,0 +1,71 @@
+.fa-solid{
+    color: blue;
+}
+
+#titbanda {
+    font-family: GiarekDemoVersionRegular;
+    text-align: center;
+    font-size: 70px;
+}
+
+.section {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 30px;
+}
+
+#tittour{
+    font-family: GiarekDemoVersionRegular;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+#bilhete{
+    color: white;
+    text-align: center;
+}
+article{
+    padding: 10px;
+    margin: 10px;
+}
+#tabela{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#shows{
+margin-left: 25%;
+}
+
+.section2{
+margin-left: 200px;
+
+}
+footer{
+text-align: center;
+margin-top: 50px;
+}
+form{
+padding: 20px;
+margin-left: 80px;
+text-align: right;
+}
+
+#titcont{
+text-align: center;
+margin-right: 20%;
+}
+.loc{
+margin-top: 20px;
+margin-right: 100px;
+float: right;
+}
+
+
